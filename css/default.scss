@@ -610,7 +610,7 @@ hr.gray {
 .opinion {
   & img {
     @include break($xs, $xl) {
-      width: 30%;
+      width: 25%;
     }
   }
 }
